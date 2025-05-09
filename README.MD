@@ -25,3 +25,15 @@ The **MID Code** (Manufacturers Identification Code) is a unique code used in U.
 2. **Install Tkinter:** Tkinter is used for the graphical user interface. It is typically bundled with Python, but if it isn't installed, you can install it using:
    ```bash
    pip install tk
+
+# If you prefer to download and run the tool as an executable, by downloading the file mid_generator.exe:
+
+### Instructions:
+1. Download the `.exe` file using the link above.
+2. Double-click the `.exe` file to run the program.
+3. Follow the prompts to generate a MID code by entering the required details (manufacturer name, address, and city).
+
+### Important Notes:
+- The executable is built to work on **Windows**.
+- Please ensure you have a trusted antivirus program installed, as `.exe` files can sometimes be flagged as suspicious.
+- If you encounter any issues with the file, feel free to open an issue on this repository.
